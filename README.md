@@ -1,4 +1,4 @@
-# css Box Shadow
+# CSS Box Shadow
 
 box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color];
 
