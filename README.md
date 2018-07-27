@@ -1,6 +1,7 @@
 # css Box Shadow
 
 box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color];
+
 Example: box-shadow: 5px 5px 3px 1px #999
 
   1. horizontal offset
