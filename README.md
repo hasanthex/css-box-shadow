@@ -18,4 +18,7 @@ Example: box-shadow: 5px 5px 3px 1px #999
       
   5. color
       
+      
+  # Box Shadow Browser Prefix
+  -moz-box-shadow and -webkit-box-shadow. 
  
